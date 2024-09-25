@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\ref\DanioInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\bin\Debug\net5.0\DanioInflingido.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\ref\DanioInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\4\DanioInflingido\obj\Debug\net5.0\DanioInflingido.genruntimeconfig.cache

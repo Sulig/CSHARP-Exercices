@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\ref\Puntuaciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\bin\Debug\net5.0\Puntuaciones.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\ref\Puntuaciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\2\obj\Debug\net5.0\Puntuaciones.genruntimeconfig.cache

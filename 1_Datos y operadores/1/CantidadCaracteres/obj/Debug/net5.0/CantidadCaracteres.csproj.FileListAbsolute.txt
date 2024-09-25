@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.exe
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.dll
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\ref\CantidadCaracteres.dll
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\bin\Debug\net5.0\CantidadCaracteres.pdb
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.dll
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\ref\CantidadCaracteres.dll
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.pdb
+C:\Users\sdominguez.a3d2n\Desktop\CantidadCaracteres\obj\Debug\net5.0\CantidadCaracteres.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\ref\Opciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\bin\Debug\net5.0\Opciones.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\ref\Opciones.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.genruntimeconfig.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\3\Opciones\obj\Debug\net5.0\Opciones.csproj.AssemblyReference.cache

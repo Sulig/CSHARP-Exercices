@@ -1,0 +1,15 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\ref\SimbolosEspeciales.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\bin\Debug\net5.0\SimbolosEspeciales.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\ref\SimbolosEspeciales.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\1-Biblioteca de scrips\1_Aplicaciones de consola y utilizables\SimbolosEspeciales\obj\Debug\net5.0\SimbolosEspeciales.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\ref\Persona.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\bin\Debug\net5.0\Persona.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\ref\Persona.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\2\Persona\obj\Debug\net5.0\Persona.genruntimeconfig.cache

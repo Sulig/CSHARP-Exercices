@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\ref\Mayor y menor.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\bin\Debug\net5.0\Mayor y menor.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\ref\Mayor y menor.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\5\Mayor y menor\obj\Debug\net5.0\Mayor y menor.genruntimeconfig.cache

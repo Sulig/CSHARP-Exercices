@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\ref\Funciones simples.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\bin\Debug\net5.0\Funciones simples.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\ref\Funciones simples.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\1\Funciones simples\obj\Debug\net5.0\Funciones simples.genruntimeconfig.cache

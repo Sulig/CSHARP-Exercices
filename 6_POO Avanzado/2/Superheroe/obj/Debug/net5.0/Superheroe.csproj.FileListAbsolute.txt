@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\ref\Superheroe.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\bin\Debug\net5.0\Superheroe.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\ref\Superheroe.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\2\Superheroe\obj\Debug\net5.0\Superheroe.genruntimeconfig.cache

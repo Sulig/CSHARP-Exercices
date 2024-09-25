@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\ref\DanyoInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\bin\Debug\net5.0\DanyoInflingido.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\ref\DanyoInflingido.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\DanyoInflingido\obj\Debug\net5.0\DanyoInflingido.genruntimeconfig.cache

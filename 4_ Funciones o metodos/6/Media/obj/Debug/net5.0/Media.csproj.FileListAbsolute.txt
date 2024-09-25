@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\ref\Media.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\bin\Debug\net5.0\Media.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\ref\Media.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\6\Media\obj\Debug\net5.0\Media.genruntimeconfig.cache

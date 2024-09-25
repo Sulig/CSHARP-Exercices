@@ -1,0 +1,8 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\ref\UsuarioYClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\1\UsuarioYClave\obj\Debug\net5.0\UsuarioYClave.pdb

@@ -1,0 +1,31 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\ref\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\bin\Debug\net5.0\Matriz de strings.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\ref\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\Matriz de strings\obj\Debug\net5.0\Matriz de strings.genruntimeconfig.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\ref\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\bin\Debug\net5.0\Matriz de strings.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\ref\Matriz de strings.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\1\obj\Debug\net5.0\Matriz de strings.genruntimeconfig.cache

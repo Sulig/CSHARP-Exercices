@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\ref\Danyo al jugador.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\bin\Debug\net5.0\Danyo al jugador.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\ref\Danyo al jugador.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\8\Danyo al jugador\obj\Debug\net5.0\Danyo al jugador.genruntimeconfig.cache

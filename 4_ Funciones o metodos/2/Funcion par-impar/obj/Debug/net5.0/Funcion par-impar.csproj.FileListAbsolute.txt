@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\ref\Funcion par-impar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\bin\Debug\net5.0\Funcion par-impar.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\ref\Funcion par-impar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.genruntimeconfig.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\2\Funcion par-impar\obj\Debug\net5.0\Funcion par-impar.csproj.AssemblyReference.cache

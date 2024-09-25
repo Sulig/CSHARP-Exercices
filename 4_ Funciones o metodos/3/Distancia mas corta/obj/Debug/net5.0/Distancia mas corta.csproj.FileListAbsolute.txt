@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\ref\Distancia mas corta.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\bin\Debug\net5.0\Distancia mas corta.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\ref\Distancia mas corta.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\3\Distancia mas corta\obj\Debug\net5.0\Distancia mas corta.genruntimeconfig.cache

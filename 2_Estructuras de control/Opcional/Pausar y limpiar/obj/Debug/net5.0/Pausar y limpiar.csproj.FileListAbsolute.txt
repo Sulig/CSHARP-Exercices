@@ -1,0 +1,15 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\ref\Pausar y limpiar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\bin\Debug\net5.0\Pausar y limpiar.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\ref\Pausar y limpiar.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\Opcional\Pausar y limpiar\obj\Debug\net5.0\Pausar y limpiar.genruntimeconfig.cache

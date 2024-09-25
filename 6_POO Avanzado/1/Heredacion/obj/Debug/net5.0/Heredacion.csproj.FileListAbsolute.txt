@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\ref\Heredacion.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\bin\Debug\net5.0\Heredacion.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\ref\Heredacion.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 1\POO\Archivo 7_ POO Avanzado\1\Heredacion\obj\Debug\net5.0\Heredacion.genruntimeconfig.cache

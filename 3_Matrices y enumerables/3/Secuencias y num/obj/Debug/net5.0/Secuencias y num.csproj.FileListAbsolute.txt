@@ -1,0 +1,32 @@
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.exe
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\ref\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\bin\Debug\net5.0\Secuencias y num.pdb
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\ref\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.pdb
+C:\Users\sdominguez.a3d2n\Desktop\Secuencias y num\obj\Debug\net5.0\Secuencias y num.genruntimeconfig.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\ref\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\bin\Debug\net5.0\Secuencias y num.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\ref\Secuencias y num.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\3\Secuencias y num\obj\Debug\net5.0\Secuencias y num.genruntimeconfig.cache

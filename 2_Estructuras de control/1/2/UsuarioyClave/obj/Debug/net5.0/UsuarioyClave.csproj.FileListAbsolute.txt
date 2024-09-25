@@ -1,0 +1,15 @@
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.exe
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\ref\UsuarioyClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\bin\Debug\net5.0\UsuarioyClave.pdb
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\ref\UsuarioyClave.dll
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.pdb
+C:\Users\sdominguez.a3d2n\Desktop\UsuarioyClave\obj\Debug\net5.0\UsuarioyClave.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\ref\Gat.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\bin\Debug\net5.0\Gat.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\ref\Gat.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\UF 2\Archivo 6_Programacion de elementos\3\Gat\obj\Debug\net5.0\Gat.genruntimeconfig.cache

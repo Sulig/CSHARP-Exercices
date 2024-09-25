@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Danyo al jugador/1.0.0": {
+        "runtime": {
+          "Danyo al jugador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Danyo al jugador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

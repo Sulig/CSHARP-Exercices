@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\ref\CalcularAreaTriangulo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\bin\Debug\net5.0\CalcularAreaTriangulo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\ref\CalcularAreaTriangulo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\CalcularAreaTriangulo\obj\Debug\net5.0\CalcularAreaTriangulo.genruntimeconfig.cache

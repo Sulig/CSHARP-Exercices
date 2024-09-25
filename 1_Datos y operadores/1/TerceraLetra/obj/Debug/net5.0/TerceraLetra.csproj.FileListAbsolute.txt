@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.exe
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.dll
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\ref\TerceraLetra.dll
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\bin\Debug\net5.0\TerceraLetra.pdb
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.dll
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\ref\TerceraLetra.dll
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.pdb
+C:\Users\sdominguez.a3d2n\Desktop\TerceraLetra\obj\Debug\net5.0\TerceraLetra.genruntimeconfig.cache

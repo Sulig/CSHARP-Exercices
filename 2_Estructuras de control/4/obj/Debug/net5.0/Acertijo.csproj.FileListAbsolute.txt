@@ -1,0 +1,48 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\ref\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\bin\Debug\net5.0\Acertijo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\ref\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\Acertijo\obj\Debug\net5.0\Acertijo.genruntimeconfig.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\ref\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\ref\Acertijo.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.exe
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.deps.json
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.runtimeconfig.json
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.runtimeconfig.dev.json
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.dll
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\ref\Acertijo.dll
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\bin\Debug\net5.0\Acertijo.pdb
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.dll
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\ref\Acertijo.dll
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.pdb
+C:\Users\Sasha\Desktop\ALMACEN\0_Curso_Animacion\A3D 2\PROGRAMACION\Ejercicios\Archivo 2\4\obj\Debug\net5.0\Acertijo.genruntimeconfig.cache

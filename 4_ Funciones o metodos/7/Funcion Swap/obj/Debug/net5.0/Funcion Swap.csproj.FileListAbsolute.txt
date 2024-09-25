@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\ref\Funcion Swap.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\bin\Debug\net5.0\Funcion Swap.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\ref\Funcion Swap.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\7\Funcion Swap\obj\Debug\net5.0\Funcion Swap.genruntimeconfig.cache

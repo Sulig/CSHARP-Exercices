@@ -1,0 +1,15 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\ref\Maquina de refrescos.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\bin\Debug\net5.0\Maquina de refrescos.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\ref\Maquina de refrescos.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 3\4\Maquina de refrescos\obj\Debug\net5.0\Maquina de refrescos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.exe
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.dll
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\ref\Utilidades.dll
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.dll
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\ref\Utilidades.dll
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.pdb
+C:\Users\sdominguez.a3d2n\Desktop\Utilidades\obj\Debug\net5.0\Utilidades.genruntimeconfig.cache

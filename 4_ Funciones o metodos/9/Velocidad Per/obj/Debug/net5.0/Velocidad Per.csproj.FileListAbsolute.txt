@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\ref\Velocidad Per.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\bin\Debug\net5.0\Velocidad Per.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\ref\Velocidad Per.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\Archivo 4_ Funciones o metodos\9\Velocidad Per\obj\Debug\net5.0\Velocidad Per.genruntimeconfig.cache

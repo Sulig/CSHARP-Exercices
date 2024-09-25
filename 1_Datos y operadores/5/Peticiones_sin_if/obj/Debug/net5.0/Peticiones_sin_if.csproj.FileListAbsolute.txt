@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\ref\Peticiones_sin_if.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\bin\Debug\net5.0\Peticiones_sin_if.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\ref\Peticiones_sin_if.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\5\Peticiones_sin_if\obj\Debug\net5.0\Peticiones_sin_if.genruntimeconfig.cache

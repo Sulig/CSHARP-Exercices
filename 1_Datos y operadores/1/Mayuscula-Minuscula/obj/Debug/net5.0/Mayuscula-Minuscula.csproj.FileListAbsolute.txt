@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.exe
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.deps.json
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.dll
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\ref\Mayuscula-Minuscula.dll
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\bin\Debug\net5.0\Mayuscula-Minuscula.pdb
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.dll
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\ref\Mayuscula-Minuscula.dll
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.pdb
+C:\Users\sdominguez.a3d2n\source\repos\Mayuscula-Minuscula\obj\Debug\net5.0\Mayuscula-Minuscula.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.exe
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.deps.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.runtimeconfig.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.runtimeconfig.dev.json
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\ref\MetodoTrim.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\bin\Debug\net5.0\MetodoTrim.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.csproj.AssemblyReference.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.AssemblyInfoInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.AssemblyInfo.cs
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.csproj.CoreCompileInputs.cache
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\ref\MetodoTrim.dll
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.pdb
+C:\Users\sdominguez.a3d2n\Desktop\PROGRAMACION\Ejercicios\MetodoTrim\obj\Debug\net5.0\MetodoTrim.genruntimeconfig.cache
